@@ -2998,3 +2998,1003 @@
  1287  git commit -m "history"
  1288  git push -u origin master
  1289  history >> huanghaoranlog 
+   29  reboot
+   30  vi /etc/udev/rules.d/70-persistent-net.rules 
+   31  ifconfig 
+   32  vi /etc/udev/rules.d/70-persistent-net.rules 
+   33  /etc/init.d/network reload
+   34  /etc/init.d/networking reload
+   35  ifconfig 
+   36  vi /etc/udev/rules.d/70-persistent-net.rules 
+   37  reboot
+   38  ifconfig 
+   39  vi /etc/udev/rules.d/70-persistent-net.rules 
+   40  reboot
+   41  ipsec
+   42  openssl x509 -in /etc/ipsec.d/cer
+   43  wireshark start
+   44  export DISPLAY=192.168.157.157:0
+   45  wireshark start
+   46  libGL error: No matching fbConfigs or visuals found
+   47  libGL error: failed to load driver: swrast
+   48  .xsession-errors
+   49  vim .xsession-errors
+   50  wireshark start
+   51  wireshark 
+   52  ipsec start
+   53  wireshark
+   54  ipsec statusall 
+   55  vi /etc/strongswan.conf 
+   56  vi /etc/ipsec.conf 
+   57  cp /etc/ipsec.conf /public/ipsec.conf
+   58  vi /etc/ipsec.conf 
+   59  vi /etc/ipsec.secrets 
+   60  cp /etc/ipsec.secrets /public/ipsec.secrets
+   61  vi /etc/ipsec.secrets 
+   62  wireshark
+   63  export DISPLAY=192.168.157.157:0
+   64  wireshark
+   65  wget -qO 172.0.10.127/usr/local/bin/wireshark
+   66  wget -qO - 172.0.10.127/usr/local/bin/wireshark
+   67  which wireshark
+   68  ls
+   69  wireshark
+   70  apt-get remove wire
+   71  apt-get remove wireshark
+   72  wget -qO - 172.0.10.127/usr/local/bin/wireshark
+   73  wireshark
+   74  apt-get remove wireshark
+   75  which wireshark
+   76  ./wireshark
+   77  wireshark
+   78  wget remove wireshark
+   79  wireshark
+   80  apt-get install x11 -apps
+   81  apt-get install x11
+   82  wireshark
+   83  ./wir
+   84  wget -qO - 172.0.10.127/usr/local/bin/wireshark
+   85  wireshark
+   86  chmod 777 wireshark
+   87  chmod 777 ./wireshark
+   88  ./wireshark
+   89  which wireshark
+   90  /usr/bin/wireshark
+   91  ./usr/bin/wireshark
+   92  /usr/bin/wireshark
+   93  wireshark -noload Welcome
+   94  ipsec start
+   95  ipsec restart
+   96  ipsec up psk188 
+   97  ipsec restart
+   98  ls /etc/
+   99  vi /etc/ipsec.conf 
+  100  vi /etc/ipsec.secrets 
+  101  ipsec restart
+  102  ipsec up psk188 
+  103  vi /etc/ipsec.secrets 
+  104  vi /etc/ipsec.conf 
+  105  ipsec restart
+  106  vi /etc/ipsec.secrets 
+  107  vi /etc/ipsec.conf 
+  108  ipsec restart
+  109  ls strongswan-5.8.0/
+  110  ls /var/lib/
+  111  apt-get install strongswan
+  112  apt-get uninstall strongswan
+  113  apt-get install strongswan
+  114  apt-get remove strongswan
+  115  apt-get install strongswan
+  116  vi /etc/ipsec.conf
+  117  vi /etc/ipsec.secrets
+  118  ipsec restart
+  119  apt-get remove strongswan
+  120  ls
+  121  cd strongswan-5.8.0/
+  122  ./configure --prefix=/usr --sysconfdir=/etc --enable-openssl 
+  123  make
+  124  sudo make install
+  125  ipsec start
+  126  ipsec restart
+  127  vi /etc/ipsec.conf
+  128  ls /etc/
+  129  ls /public/
+  130  vi /public/ipsec.conf 
+  131  cp /public/ipsec.conf  /etc/ipsec.conf
+  132  vi /etc/ipsec.conf
+  133  cp /public/ipsec.secrets  /etc/ipsec.secrets
+  134  vi /etc/ipsec.secrets
+  135  apt-get install wireshark
+  136  wireshark-gtk 
+  137  wireshark-gtk
+  138  wireshark
+  139  wireshark-gtk
+  140  wireshark-gtk restart
+  141  Lua: Error during loading:
+  142  wireshark-gtk
+  143  ipsec restart 
+  144  ipsec up psk188 
+  145  ipsec up psk2 
+  146  ipsec restart 
+  147  ipsec up psk2 
+  148  ipsec up psk188 
+  149  vi /etc/ipsec.conf
+  150  ipsec restart 
+  151  ipsec up psk188 
+  152  reboot
+  153  ls
+  154  cd strongswan-5.8.0/
+  155  make uninstall 
+  156  wireshark
+  157  ls
+  158  cd strongswan-5.8.0/
+  159  ls
+  160  make
+  161  make install
+  162  ls
+  163  ipsec restart 
+  164  ipsec up psk188 
+  165  reboot 
+  166  ipsec restart 
+  167  vi /etc/ipsec.conf
+  168  ipsec restart 
+  169  ipsec up psk188 
+  170  vi /etc/ipsec.conf
+  171  ipsec up psk188 
+  172  ipsec restart 
+  173  ipsec up psk188 
+  174  ipsec version 
+  175  vi /etc/ipsec.conf
+  176  ipsec up psk188 
+  177  wireshark
+  178  ipsec up psk188 
+  179  wireshark-gtk 
+  180  ipsec start
+  181  ipsec up psk188 
+  182  vi /etc/ipsec.conf
+  183  ipsec restart 
+  184  ipsec up psk188 
+  185  vi /etc/strongswan.conf 
+  186  ipsec restart 
+  187  ipsec up psk188 
+  188  wireshark-gtk 
+  189  vi /etc/strongswan.conf 
+  190  ipsec up psk188 
+  191  ipsec up psk188 
+  192  ipsec restart 
+  193  ipsec up psk188 
+  194  vi /etc/ipsec.conf
+  195  ipsec up psk
+  196  ipsec up ps
+  197  ipsec up 
+  198  ipsec up ps
+  199  ipsec up psk1
+  200  vi /etc/ipsec.conf
+  201  ipsec restart 
+  202  ipsec up psk1
+  203  ipsec up psk188 
+  204  apt-get install libgmp-dev
+  205  apt-get update 
+  206  apt-get install libssl-dev
+  207  tar -jxvf strongswan-5.8.0.tar.bz2
+  208  cd strongswan-5.8.0/
+  209  ./configure --prefix=/usr --sysconfdir=/etc --enable-openssl
+  210  make
+  211  make install
+  212  ipsec 
+  213  ipsec restart 
+  214  ipsec up psk1
+  215  vi /etc/ipsec.conf
+  216  ipsec up psk1
+  217  ipsec up psk188 
+  218  ipsec down psk188 
+  219  ipsec up psk188 
+  220  ipsec pool 
+  221  ipsec reload 
+  222  ipsec status
+  223  ipsec stop 
+  224  ipsec start
+  225  ipsec up psk188 
+  226  vi /etc/ipsec.conf
+  227  ls /var/lib/
+  228  ls /var/lib/strongswan/
+  229  vi /etc/ipsec.conf
+  230  ipsec up psk188 
+  231  ipsec restart 
+  232  make uninstall
+  233  rm /etc/ipsec.conf
+  234  rm /etc/ipsec.secrets
+  235  rm /etc/ipsec.*
+  236  rm rf/etc/ipsec.*
+  237  rm -rf /etc/ipsec.*
+  238  apt-get install strongswan
+  239  ipsec version
+  240  apt-get re,ove strongswan
+  241  apt-get remove strongswan
+  242  apt-get install strongswan
+  243  ipsec version
+  244  ipsec up psk188 
+  245  apt-get remove strongswan
+  246  make
+  247  ./configure --prefix=/usr --sysconfdir=/etc --enable-openssl
+  248  make
+  249  sudo make install
+  250  ipsec start
+  251  ipsec restart
+  252  ls /etc
+  253  vi /etc/ipsec.conf 
+  254  ls /var/lib/strongswan/
+  255  vi /etc/ipsec.conf 
+  256  ipsec restart 
+  257  vi /etc/ipsec.conf 
+  258  ipsec restart 
+  259  vi /etc/ipsec.conf 
+  260  ipsec restart 
+  261  vi /etc/ipsec.secrets 
+  262  ipsec restart 
+  263  ipsec up psk188 
+  264  wireshark isakmp
+  265  wireshark-gtk 
+  266  ifconfig
+  267  ping 172.1.10.242
+  268  ipsec restart 
+  269  ipsec statusall
+  270  ifconfig 
+  271  ping 172.0.10.167
+  272  ping 172.1.5.27
+  273  ping 172.1.10.167
+  274  ping 172.1.10.149
+  275  vi /etc/ipsec.conf 
+  276  vi /etc/ipsec.secrets 
+  277  vi /etc/strongswan.conf 
+  278  ping 172.1.10.167
+  279  ifconfig 
+  280  ping 172.1.10.167
+  281  ping 172.0.10.167
+  282  ping 172.1.10.167
+  283  ping 172.0.10.167
+  284  ifconfig 
+  285  vi /etc/network/interfaces
+  286  vi /etc/network/interface
+  287  vi /etc/network/interfaces
+  288  ping 172.1.10.167
+  289  ifconfig 
+  290  ping 172.1.10.167
+  291  ifconfig 
+  292  ls /etc/network/interfaces.d/
+  293  vi /etc/network/interfaces
+  294  ping 172.1.5.26
+  295  ping 172.1.5.25
+  296  ethtool eth1
+  297  ifconfig
+  298  ping 172.1.5.27
+  299  ping 172.1.10.242
+  300  ethtool eth1
+  301  ifconfig 
+  302  ethtool eth1
+  303  ifconfig 
+  304  ping 172.1.10.167
+  305  vi /etc/ipsec.conf 
+  306  ipsec restart 
+  307  ipsec up psk188 
+  308  ifconfig eth1 up
+  309  ifconfig eth1
+  310  reboot
+  311  ipsec restart
+  312  ipsec 
+  313  ipsec up psk188 
+  314  ipsec restart
+  315  ipsec up psk188 
+  316  vi /etc/ipsec.conf 
+  317  ipsec up psk188 
+  318  vi /etc/ipsec.conf 
+  319  ipsec up psk188 
+  320  vi /etc/ipsec.conf 
+  321  vi /etc/strongswan.
+  322  vi /etc/strongswan.conf 
+  323  vi /etc/ipsec.conf 
+  324  ipsec restart
+  325  ipsec up psk188 
+  326  ipsec restart
+  327  vi /etc/strongswan.conf 
+  328  vi /etc/ipsec.conf :
+  329  ipsec restart
+  330  ipsec up psk
+  331  ipsec up psk 
+  332  vi /etc/ipsec.secrets 
+  333  ipsec restart
+  334  ipsec up psk 
+  335  ipsec up psk
+  336  vi /etc/ipsec.secrets 
+  337  reboot 
+  338  ipsec up psk2 
+  339  ipsec restart 
+  340  ipsec up psk2 
+  341  ipsec restart 
+  342  ipsec up psk2 
+  343  ipsec restart 
+  344  ipsec up psk2 
+  345  ping 172.1.10.167
+  346  ./sim_mme -H 172.1.5.27 -A 8.8.8.8 -i eth1 -a 1 -w 0xffffffff
+  347  route add -net 3.3.0.0/16 gw 172.1.5.27
+  348  route add -net 8.8.8.16 gw 172.1.5.27
+  349  route add -net 8.8.8.166 gw 172.1.5.27
+  350  route add -host 8.8.8.166 gw 172.1.5.27
+  351  ./sim_mme -H 172.1.5.27 -A 8.8.8.16 -i eth1 -a 1 -w 0xffffffff
+  352  ./sim_mme -H 172.1.5.27 -A 8.8.8.166 -i eth1 -a 1 -w 0xffff
+  353  ./sim_pgw
+  354  apt-get install sim
+  355  ping 172.1.10.167
+  356  ping 172.1.5.25
+  357  ping 172.1.5.26
+  358  ping 172.1.5.27
+  359  ping 172.1.5.28
+  360  ping 172.1.5.25
+  361  ipsec stop 
+  362  ipsec up psk2 
+  363  ipsec restart 
+  364  ipsec up psk2 
+  365  ipsec restart 
+  366  ipsec up psk2 
+  367  ipsec restart 
+  368  ipsec up psk2 
+  369  ping 172.1.10.167
+  370  ipsec up psk2 
+  371  ping 172.1.10.167
+  372  vi /etc/ipsec.secrets 
+  373  ipsec up psk 
+  374  vi /etc/ipsec.conf 
+  375  vi /etc/strongswan.conf 
+  376  ipsec up psk 
+  377  ipsec restart 
+  378  ipsec up psk 
+  379  vi /etc/strongswan.conf 
+  380  ipsec up psk 
+  381  vi /etc/strongswan.conf 
+  382  ipsec restart 
+  383  ipsec up psk 
+  384  vi /etc/strongswan.d/starter.conf
+  385  vi /etc/strongswan.d/pki.conf 
+  386  vi /etc/strongswan.conf 
+  387  ipsec up psk 
+  388  ipsec reload 
+  389  ipsec up psk 
+  390  ipsec status
+  391  ipsec version 
+  392  ipsec update 
+  393  vi /etc/strongswan.conf 
+  394  ipsec restart
+  395  ipsec up psk 
+  396  vi /etc/ipsec.conf 
+  397  ipsec restart
+  398  ipsec up psk 
+  399  vi /etc/ipsec.conf 
+  400  ipsec restart
+  401  ipsec up psk 
+  402  vi /etc/ipsec.conf 
+  403  ipsec up psk 
+  404  vi /etc/ipsec.conf 
+  405  ipsec restart
+  406  ipsec up psk 
+  407  ipsec up psk188 
+  408  apt-get  strongswan
+  409  vi /etc/ipsec.conf 
+  410  vi /etc/ipsec.secrets 
+  411  vi /etc/strongswan.conf 
+  412  rm /etc/strongswan*
+  413  rm -rf /etc/strongswan*
+  414  rm -rf /etc/ipsec*
+  415  apt-get install libssl-dev
+  416  cd strongswan-5.8.0/
+  417  ./configure --prefix=/usr --sysconfdir=/etc --enable-openssl
+  418  make
+  419  make uninstall
+  420  make
+  421  sudo make install
+  422  ipsec restart 
+  423  vi /etc/ipsec.
+  424  vi /etc/ipsec.conf 
+  425  ipsec restart 
+  426  ipsec up psk2 
+  427  vi /etc/ipsec.conf 
+  428  ipsec up psk2 
+  429  vi /etc/ipsec.conf 
+  430  ipsec restart 
+  431  vi /etc/ipsec.conf 
+  432  ipsec up psk2 
+  433  vi /etc/ipsec.secrets 
+  434  ipsec restart 
+  435  ipsec up psk2 
+  436  vi /etc/ipsec.secrets 
+  437  vi /etc/ipsec.conf 
+  438  ipsec up psk2 
+  439  vi /etc/ipsec.conf 
+  440  ipsec up psk2 
+  441  ipsec restart 
+  442  ipsec up psk2 
+  443  wireshark-gtk 
+  444  vi /etc/ipsec.conf 
+  445  vi /etc/ipsec.secrets 
+  446  ping 172.1.10.167
+  447  cd
+  448  ethtool eth1
+  449  ipsec up psk2 
+  450  ipsec restart 
+  451  ipsec up psk2 
+  452  vi /etc/ipsec.conf 
+  453  ipsec restart 
+  454  ipsec up psk
+  455  su casa
+  456  ipsec restart 
+  457  ipsec up psk
+  458  ping 172.1.10.167
+  459  ipsec restart 
+  460  ipsec up psk
+  461  ipsec restart 
+  462  ipsec up psk
+  463  ping 172.1.10.167
+  464  vi /etc/ipsec.
+  465  vi /etc/ipsec.conf 
+  466  ipsec restart 
+  467  ipsec up psk
+  468  vi /etc/ipsec.conf 
+  469  ipsec up psk
+  470  vi /etc/ipsec.conf 
+  471  ipsec up psk
+  472  vi /etc/ipsec.conf 
+  473  ipsec up psk
+  474  ipsec up psk 
+  475  ipsec restart 
+  476  ipsec up psk 
+  477  vi /etc/ipsec.conf 
+  478  ipsec restart 
+  479  ipsec up psk 
+  480  ipsec
+  481  ipsec restart 
+  482  ipsec up psk 
+  483  wireshark-gtk 
+  484  ping baidu.com
+  485  ipsec up psk 
+  486  ipsec restart 
+  487  ipsec up psk 
+  488  ping baidu.com
+  489  ping 172.1.10.167
+  490  wireshark-gtk 
+  491  ipsec up psk 
+  492  cat /etc/ipsec.conf 
+  493  wireshark-gtk 
+  494  ipsec restart 
+  495  ipsec up psk
+  496  ping 172.1.10.167
+  497  ipsec restart 
+  498  ipsec up psk
+  499  ping 172.1.10.167
+  500  ipsec restart 
+  501  ipsec up psk
+  502  ipsec restart 
+  503  ipsec up psk
+  504  ipsec restart 
+  505  ipsec up psk
+  506  ipsec stop 
+  507  ipsec restart 
+  508  ipsec up psk
+  509  ipsec restart 
+  510  ipsec up psk
+  511  date
+  512  ipsec restart 
+  513  ipsec up psk
+  514  ping 172.1.10.167
+  515  ipsec stop
+  516  ipsec up psk
+  517  ipsec restart 
+  518  ipsec up psk
+  519  ipsec reload 
+  520  ipsec up psk
+  521  ipsec restart 
+  522  ipsec up psk
+  523  ipsec restart 
+  524  ipsec up psk
+  525  ipsec update 
+  526  ipsec listpubkeys 
+  527  ipsec listocspcerts 
+  528  ipsec up psk
+  529  ipsec restart 
+  530  ipsec up psk
+  531  ipsec restart 
+  532  ipsec up psk
+  533  ping 172.1.10.167
+  534  ipsec restart 
+  535  ipsec up psk
+  536  ipsec restart 
+  537  ping 172.1.10.167
+  538  ipsec restart 
+  539  ping 172.1.10.167
+  540  ipsec up psk
+  541  ipsec restart 
+  542  ipsec up psk 
+  543  ipsec restart 
+  544  ipsec up psk 
+  545  ipsec restart 
+  546  ipsec up psk 
+  547  ipsec restart 
+  548  ipsec up psk 
+  549  ping 172.1.10.167
+  550  ipsec restart 
+  551  ipsec up psk 
+  552  ping 172.1.10.167
+  553  ipsec restart 
+  554  ipsec up psk 
+  555  ping 172.1.10.167
+  556  ipsec stop
+  557  ipsec restart 
+  558  vi /etc/ipsec.conf 
+  559  ping 172.1.5.26
+  560  ping 172.1.10.167
+  561  ipsec restart 
+  562  ipsec up psk 
+  563  ping 172.1.5.26
+  564  ipsec stop
+  565  ipsec restart 
+  566  ipsec up psk 
+  567  ping 172.1.5.26
+  568  ipsec restart 
+  569  ipsec up psk 
+  570  ping 172.1.5.26
+  571  ipsec restart 
+  572  ipsec up psk 
+  573  ping 172.1.5.26
+  574  ipsec restart 
+  575  ipsec up psk 
+  576  ping 172.1.5.26
+  577  ping 172.1.10.167
+  578  ipsec restart 
+  579  ipsec up psk 
+  580  ping 172.1.10.167
+  581  ping 172.1.5.26
+  582  ipsec up psk 
+  583  ping 172.1.5.26
+  584  ipsec up psk 
+  585  ping 172.1.5.26
+  586  ping 172.1.10
+  587  ping 172.1.10.167
+  588  ping 172.1.5.26
+  589  ping 172.1.10.167
+  590  ipsec restart 
+  591  ipsec up psk 
+  592  ipsec restart 
+  593  ipsec up psk 
+  594  ipsec restart 
+  595  ipsec up psk 
+  596  ipsec restart 
+  597  ipsec up psk 
+  598  ping 172.1.10.167
+  599  ipsec restart 
+  600  ipsec up psk 
+  601  ping 172.1.10.167
+  602  ping 172.1.5.27
+  603  ping 172.1.5.25
+  604  ipsec restart 
+  605  ping 172.1.5.25
+  606  ipsec up psk 
+  607  ping 172.1.10.167
+  608  ipsec restart 
+  609  ipsec up psk 
+  610  if
+  611  ifconfig 
+  612  ping 172.1.5.26
+  613  ipsec up psk 
+  614  ipsec restart 
+  615  ipsec up psk 
+  616  ipsec restart 
+  617  ipsec up psk 
+  618  ipsec restart 
+  619  ipsec up psk 
+  620  ping 172.1.5.26
+  621  ping 172.1.5.28
+  622  ipsec restart 
+  623  ping 172.1.5.28
+  624  ping 172.1.5.27
+  625  ping 172.1.5.25
+  626  ipsec up psk 
+  627  ping 172.1.5.28
+  628  ipsec restart 
+  629  vi /etc/ipsec.conf 
+  630  ipsec restart 
+  631  ipsec up psk 
+  632  ipsec restart 
+  633  ipsec up psk 
+  634  ping 172.1.5.28
+  635  ipsec up psk 
+  636  ipsec restart 
+  637  ipsec up psk 
+  638  ping 172.1.5.28
+  639  ping 172.1.10.167
+  640  ping 172.1.5.28
+  641  ipsec restart 
+  642  ipsec statusall 
+  643  ipsec up psk 
+  644  ipsec statusall 
+  645  ping 172.1.5.25
+  646  ipsec statusall 
+  647  ping 172.1.5.25
+  648  ipsec statusall 
+  649  ping 172.1.5.26
+  650  ping 172.1.5.27
+  651  ping 172.1.5.25
+  652  ping 172.1.5.28
+  653  ping 172.1.5.296
+  654  ping 172.0.5.296
+  655  ping 172.1.5.28
+  656  ping 172.0.5.28
+  657  ipsec statusall 
+  658  ipsec restart 
+  659  ipsec up psk 
+  660  ipsec statusall 
+  661  vi /etc/ipsec.conf 
+  662  vi /etc/ipsec.secrets 
+  663  vi /etc/strongswan.conf 
+  664  vi /etc/ipsec.conf 
+  665  vi /etc/ipsec.secrets 
+  666  cat /etc/ipsec.conf 
+  667  cat /etc/ipsec.se
+  668  ipsec statusall 
+  669  ipsec restart 
+  670  ipsec up psk 
+  671  ipsec statusall 
+  672  ipsec restart 
+  673  ipsec up psk 
+  674  ipsec statusall 
+  675  ping 172.1.5.26
+  676  ipsec up psk 
+  677  ipsec restart 
+  678  ping 172.1.5.26
+  679  ipsec restart 
+  680  ipsec up psk 
+  681  ping 172.1.5.26
+  682  ipsec up psk 
+  683  ipsec restart 
+  684  ping 10.0.0.1
+  685  ping 10.0.0.2
+  686  ping 10.0.0.1
+  687  ping 10.0.0.2
+  688  ping 10.0.0.1
+  689  ping 172.1.10.167
+  690  ipsec up psk 
+  691  ping 172.1.5.26
+  692  ping 172.1.5.29
+  693  ipsec restart 
+  694  ipsec up psk 
+  695  ping 172.1.5.29
+  696  ping 172.1.5.26
+  697  ipsec restart 
+  698  ipsec up psk 
+  699  ipsec restart 
+  700  ipsec up psk 
+  701  ping 172.1.10.167
+  702  ipsec up psk 
+  703  ping 172.1.10.167
+  704  vi /etc/default/casa
+  705  cat /etc/network/interfaces
+  706  vi /etc/network/interface
+  707  restart network
+  708  restart networking 
+  709  ping baidu.com
+  710  reboot 
+  711  ipsec restart 
+  712  ipsec up psk 
+  713  ping 172.1.10.167
+  714  ping 10.0.0.2
+  715  route
+  716  route add -net 10.0.0.0/16 gw 172.1.10.167
+  717  route
+  718  ping 10.0.0.2
+  719  ipsec up psk 
+  720  ipsec restart 
+  721  ipsec up psk 
+  722  ping 172.1.5.28
+  723  .scp \\192.168.157.8\public\huanghaoran@root /
+  724  .scp \\192.168.157.8\public\huanghaoran@root \
+  725  scp \\192.168.157.8\public\huanghaoran@root \
+  726  scp -r \\192.168.157.8\public\huanghaoran@root \
+  727  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py /
+  728  scp -r root/casa1234@192.168.157.8:/public/huanghaoran/ps_mem.py /
+  729  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py -p casa1234  / 
+  730  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py -pw casa1234  / 
+  731  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py -P casa1234  / 
+  732  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py  / 
+  733  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py  /publicls
+  734  ls
+  735  ls /
+  736  ls
+  737  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py  ~
+  738  ls
+  739  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py  ~
+  740  ls
+  741  rm ps_mem.py 
+  742  ls
+  743  scp -r root@192.168.157.8:/public/huanghaoran/ps_mem.py  ~
+  744  ls
+  745  rm ps_mem.py 
+  746  ls
+  747  ls /
+  748  /ps_mem.py 
+  749  vi /etc/network/interfaces
+  750  ping baidu.com
+  751  vi /etc/network/interfaces
+  752  reboot
+  753  ipsec restart 
+  754  ipsec up psk 
+  755  ipsec restart 
+  756  ipsec up psk 
+  757  ipsec status
+  758  q
+  759  qq
+  760  ipsec restart
+  761  ipsec up psk 
+  762  ipsec restart
+  763  ipsec up psk 
+  764  ping 172.1.10.167
+  765  vi /etc/ipsec.conf 
+  766  ipsec up psk 
+  767  vi /etc/ipsec.secrets 
+  768  vi /etc/ipsec.conf 
+  769  ipsec up psk 
+  770  ipsec restart 
+  771  ipsec up psk 
+  772  ipsec restart 
+  773  ipsec up psk 
+  774  ipsec 
+  775  ipsec restart 
+  776  ipsec up psk 
+  777  ping 172.1.10.167
+  778  ipsec up psk 
+  779  ipsec restart 
+  780  ipsec up psk 
+  781  ipsec status
+  782  ipsec statusall
+  783  ipsec statusall psk 
+  784  ipsec status
+  785  ipsec statusall 
+  786  ipsec restart 
+  787  ipsec up psk 
+  788  ipsec restart 
+  789  ipsec up psk 
+  790  ipsec restart 
+  791  ipsec up psk 
+  792  ipsec restart 
+  793  ipsec up psk 
+  794  ipsec restart 
+  795  ipsec up psk 
+  796  ipsec restart 
+  797  ipsec up psk 
+  798  ping 172.1.5.28
+  799  ipsec restart 
+  800  ping 172.1.5.28
+  801  ipsec up psk 
+  802  ping 172.1.5.28
+  803  ipsec up psk 
+  804  ipsec up psk 
+  805  ipsec restart 
+  806  ipsec up psk 
+  807  ipsec stop
+  808  ipsec up psk 
+  809  ipsec restart 
+  810  ipsec up psk 
+  811  ipsec status
+  812  ipsec restart 
+  813  ipsec status
+  814  ipsec restart 
+  815  vi /etc/ipsec.conf 
+  816  ipsec up psk 
+  817  ipsec restart 
+  818  ipsec up psk 
+  819  ping 172.1.5.28
+  820  apt-get install kvm
+  821  cat /etc/apt/sources.list
+  822  ipsec up psk 
+  823  ipsec stop 
+  824  ipsec restart 
+  825  ipsec up psk 
+  826  ping 172.1.5.28
+  827  ipsec stop 
+  828  ipsec st
+  829  ipsec start
+  830  ping 172.1.5.28
+  831  ipsec up psk 
+  832  ipsec st
+  833  ipsec restart 
+  834  ipsec up psk
+  835  reboot 
+  836  ipsec up psk
+  837  ipsec down 
+  838  ipsec down psk 
+  839  ipsec up psk
+  840  ipsec ready 
+  841  ipsec 
+  842  ipsec up psk
+  843  ping 172.1.5.28
+  844  ipsec restart 
+  845  ping 172.1.5.28
+  846  ipsec up psk
+  847  ping 172.1.5.28
+  848  vi /etc/ipsec.secrets 
+  849  ipsec up psk
+  850  ipsec restart 
+  851  ipsec up psk
+  852  vi /etc/ipsec.secrets 
+  853  ipsec up psk
+  854  vi /etc/ipsec.secrets 
+  855  vi /etc/ipsec.conf 
+  856  ipsec restart 
+  857  vi /etc/ipsec.conf 
+  858  ipsec up psk
+  859  vi /etc/ipsec.conf 
+  860  ipsec restart 
+  861  ipsec up psk
+  862  vi /etc/ipsec.conf 
+  863  ipsec restart 
+  864  ipsec up psk
+  865  vi /etc/ipsec.conf 
+  866  ipsec restart 
+  867  ipsec up psk
+  868  vi /etc/ipsec.conf 
+  869  ipsec restart 
+  870  ipsec up psk
+  871  vi /etc/ipsec.conf 
+  872  ipsec restart 
+  873  ipsec up psk
+  874  vi /etc/ipsec.conf 
+  875  ipsec restart 
+  876  ipsec up psk
+  877  vi /etc/ipsec.conf 
+  878  ipsec up psk
+  879  ipsec restart 
+  880  ipsec up psk
+  881  ipsec restart 
+  882  ipsec up psk
+  883  ipsec restart 
+  884  ipsec up psk
+  885  vi /etc/ipsec.conf 
+  886  cat /etc/ipsec.
+  887  cat /etc/ipsec.conf 
+  888  ipsec restart 
+  889  ipsec up psk
+  890  cat /etc/ipsec.conf 
+  891  vi /etc/ipsec.conf 
+  892  ipsec restart 
+  893  ipsec up psk
+  894  ipsec restart 
+  895  ipsec up psk
+  896  vi /etc/ipsec.conf 
+  897  vi /etc/ipsec.secrets 
+  898  vi /etc/ipsec.conf 
+  899  ipsec up psk
+  900  ipsec restart 
+  901  ipsec up psk
+  902  vi /etc/ipsec.conf 
+  903  ipsec restart 
+  904  ipsec up psk
+  905  vi /etc/ipsec.conf 
+  906  ipsec restart 
+  907  ipsec up psk
+  908  ipsec statusall
+  909  vi /etc/ipsec.conf 
+  910  ipsec restart 
+  911  ipsec up psk
+  912  vi /etc/ipsec.conf 
+  913  vi /etc/ipsec.secrets 
+  914  vi /etc/ipsec.conf 
+  915  ipsec restart 
+  916  ipsec up psk
+  917  vi /etc/ipsec.conf 
+  918  ipsec restart 
+  919  ipsec up psk
+  920  vi /etc/ipsec.conf 
+  921  cat /etc/ipsec.conf 
+  922  ipsec restart 
+  923  ipsec up psk
+  924  ping 172.26.10.1
+  925  ping 172.26.1.10
+  926  ping 172.26.10.1
+  927  ping 10.99.0.10 
+  928  ping 172.26.1.10
+  929  ping 172.27.1.10
+  930  ping 172.1.14.92
+  931  vi /etc/ipsec.conf 
+  932  ipsec restart 
+  933  ipsec up psk 
+  934  ipsec up psk2 
+  935  vi /etc/ipsec.conf 
+  936  ipsec up psk2 
+  937  ipsec restart 
+  938  ipsec up psk2 
+  939  vi /etc/ipsec.conf 
+  940  ipsec restart 
+  941  ipsec up psk
+  942  ping 172.0.10.167
+  943  ping 172.1.10.14
+  944  vi /etc/ipsec.conf 
+  945  ipsec restart 
+  946  ipsec up psk496 
+  947  vi /etc/ipsec.conf 
+  948  ipsec restart 
+  949  ipsec up psk496 
+  950  vi /etc/ipsec.conf 
+  951  ipsec up psk496 
+  952  ipsec restart
+  953  ipsec up psk496 
+  954  ipsec restart
+  955  ipsec up psk496 
+  956  ipsec restart
+  957  ipsec up psk496 
+  958  ping 172.1.5.28
+  959  ipsec up psk496 
+  960  route add -net 10.0.0.0/16 gw 172.1.10.167
+  961  route -n
+  962  ipsec up psk496 
+  963  ping 172.1.5.28
+  964  ipsec up psk496 
+  965  ping 172.1.5.28
+  966  ipsec up psk496 
+  967  ping 172.1.5.28
+  968  ipsec up psk496 
+  969  ipsec restart
+  970  ipsec up psk496 
+  971  ipsec restart
+  972  ipsec up psk496 
+  973  ipsec restart
+  974  ipsec up psk496 
+  975  ipsec restart
+  976  ipsec up psk496 
+  977  ping 172.1.5.28
+  978  wireshark
+  979  ipsec up psk496 
+  980  ipsec restart
+  981  ipsec up psk496 
+  982  ipsec restart
+  983  ipsec up psk496 
+  984  ipsec resta
+  985  ipsec up imcomplete496 
+  986  vi /etc/ssh/sshd_config 
+  987  ipsec up psk496
+  988  cd /usr/lib/openssh/
+  989  ls
+  990  ipsec up psk496 
+  991  ping 172.1.10.167
+  992  vi /etc/ipsec.conf 
+  993  ipsec restart
+  994  ping 172.1.10.167
+  995  ipsec up psk496 
+  996  wireshark
+  997  ipsec restart
+  998  ipsec up psk496 
+  999  ipsec restart
+ 1000  ipsec up psk496 
+ 1001  ipsec restart
+ 1002  ipsec up psk496 
+ 1003  cat /etc/ipsec.conf 
+ 1004  ping 172.1.10.167
+ 1005  ipsec status
+ 1006  ipsec up psk496 
+ 1007  ping 172.1.10.167
+ 1008  ipsec status
+ 1009  ipsec up psk496 
+ 1010  vi /etc/ipsec.conf 
+ 1011  ipsec up psk493
+ 1012  ipsec up psk496 
+ 1013  ipsec up psk493
+ 1014  git
+ 1015  cd
+ 1016  cd /public/git/
+ 1017  git show-branch master 
+ 1018  git show-branch 
+ 1019  git remote show origin 
+ 1020  git status description
+ 1021  git add huanghaoranlog 
+ 1022  git commit huanghaoranlog 
+ 1023  git add huanghaoranlog 
+ 1024  git commit huanghaoranlog 
+ 1025  git commit huanghaoranlog config 
+ 1026  git commit huanghaoranlog 
+ 1027  cat huanghaoranlog 
+ 1028  history >> huanghaoranlog 
